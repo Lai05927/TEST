@@ -3,5 +3,6 @@ He brushes his teeth.
 He has breakfast.
 Then he . . .
 He goes to class.
-Line 1
+Line 1 
 Line 2
+
